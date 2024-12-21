@@ -12,3 +12,12 @@ def data_summary(data):
 
     print("\n\nData shape")
     print(data.shape)
+
+    print("\n\nData Information")
+    print(data.info())
+
+    print("\n\nData Discription")
+    print(data.describe())
+
+    print("Check Missing Values")
+    print(data.isnull().sum())
