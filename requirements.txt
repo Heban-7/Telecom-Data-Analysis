@@ -5,3 +5,4 @@ psycopg[binary]
 sqlalchemy
 matplotlib
 seaborn
+scikit-learn
