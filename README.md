@@ -98,10 +98,5 @@ Pull requests are welcome!
 
 ---
 
-## 📄 **License**
-This project is licensed under the MIT License.
-
----
-
-**Developed with ❤️ by [Liul Jima Teshome]**
+**Developed❤️ by Liul Jima Teshome**
 
